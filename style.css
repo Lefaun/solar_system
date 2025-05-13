@@ -1,4 +1,4 @@
-body { padding: 0; margin: 0;background-image:url("solar.jpg"); }
+body { padding: 0; margin: 0;background-image:url("https://i.postimg.cc/J4Sd2fw7/679880c5-36b6-4ebe-9944-638a13ed28bd.png"); }
 #unity-container { position: absolute }
 #unity-container.unity-desktop { left: 50%; top: 50%; transform: translate(-50%, -50%) }
 #unity-container.unity-mobile { position: fixed; width: 100%; height: 100% }
